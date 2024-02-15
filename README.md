@@ -1,4 +1,4 @@
-### Design pattherns used
+### Design patterns used
 We have applied BUILDER pattern to create user ,resturant ,rider  a,customer and order object 
 all classes are created with extensiblity and oops in mind
 Due to time constraint we haven't implemented complete classes but only which were essential
